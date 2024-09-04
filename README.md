@@ -7,9 +7,11 @@
 
 - 🔭 I’m currently working on [ICY-Goat](https://icy-goat.vercel.app/)
 
-- 🌱 I’m currently learning **React Js, Next Js,**
+- 🌱 I’m currently learning **React Js, Next Js, Dart, React Vite, Tensorflow**
 
 - 🎓️ Studying at **Universitas 17 Agustus 1945 Surabaya**
+
+- ⚡ Fun fact **I love music and i play it**
 
 - 📫 How to reach me **danielkurnip03@gmail.com**
 
