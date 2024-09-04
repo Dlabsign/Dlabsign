@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js, Next Js,**
 
-- 🎓️ Studying at [Universitas 17 Agustus 1945 Surabaya](Universitas 17 Agustus 1945 Surabaya)
+- 🎓️ Studying at [Universitas 17 Agustus 1945 Surabaya]**(Universitas 17 Agustus 1945 Surabaya)**
 
 - 📫 How to reach me **danielkurnip03@gmail.com**
 
