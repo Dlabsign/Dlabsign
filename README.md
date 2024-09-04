@@ -22,12 +22,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-kurnia-1398411b8/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-kurnia-1398411b8/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dlabsign/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dlabsign/?hl=id" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniel-kurnia-1398411b8/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-kurnia-1398411b8/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
+<a href="https://www.instagram.com/danielkuptr/?hl=id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dlabsign/?hl=id" height="30" width="40" /></a>
 <a href="https://dribbble.com/dlabsign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/dlabsign" height="30" width="40" /></a>
 <a href="https://www.behance.net/danielkurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/danielkurnia" height="30" width="40" /></a>
 <a href="https://medium.com/@dlabsign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dlabsign" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/danielkurnip02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/danielkurnip02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/danielkurnip02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/danielkurnip02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
