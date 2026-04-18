@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif" width="150" alt="Coding GIF" />
-
-  <h1>Hi there 👋, I'm Daniel Kurnia Putra</h1>
+   <h1>Hi there 👋, I'm Daniel Kurnia Putra</h1>
   <h3>Associate Programmer | Informatics Engineering Graduate</h3>
 
   <p>
